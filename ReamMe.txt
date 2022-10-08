@@ -1,0 +1,12 @@
+Implementation of basic data structures as taught in the Data Structures course at Shenkar College. 
+Most of the structures are implemented in C language except for the AVL tree which is in C++.
+
+The Data structures are:
+•	Linked lit
+•	Stack
+•	Queue
+•	Binary tree
+•	AVL tree
+
+
+Feel free to use it for your own good and enjoy!
